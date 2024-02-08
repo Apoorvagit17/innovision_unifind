@@ -16,7 +16,7 @@ Meet the brilliant minds behind UniFind:
 
 #### [Drupitha.C]        GitHub:(https://github.com/Drupitha-Chandrashekar)
 
-#### [Keerthana.S]       GitHub:(Link GitHub profile)
+#### [Keerthana.S]       GitHub:(https://github.com/KEERTHANA213445)
 
 ## The Project
 

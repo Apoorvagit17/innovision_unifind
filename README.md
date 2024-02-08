@@ -1,1 +1,31 @@
-# innovision_unifind
+# UniFind - College Recommendation System
+
+Welcome to UniFind, your personalized guide to discovering the perfect college match! 🎓✨
+
+- You can experience the app here :
+- https://unifind-b5to9vhppctwmg93cmsfmz.streamlit.app/
+
+
+### 🚀 The Team
+
+Meet the brilliant minds behind UniFind:
+
+#### [Apoorva Nayak](Link  GitHub profile)
+
+#### [Harini.N](Link to  GitHub profile)
+
+#### [Drupitha.C](Link  GitHub profile)
+
+#### [Keerthana.S](Link GitHub profile)
+
+## The Project
+
+UniFind is not just a college recommendation system; it's a journey of discovery, a passport to your academic future. Our mission is to simplify the college selection process and empower students to make informed decisions.
+
+### Key Features
+- **Personalized Recommendations:** Tailored suggestions based on your preferences and academic goals.
+- **Interactive Interface:** A user-friendly interface that makes exploration a delightful experience.
+- **Data-Driven Insights:** Leverage the power of data science to provide meaningful insights.
+
+- You can experience the app here :
+- https://unifind-b5to9vhppctwmg93cmsfmz.streamlit.app/

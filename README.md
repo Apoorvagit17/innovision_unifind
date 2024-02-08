@@ -10,13 +10,13 @@ Welcome to UniFind, your personalized guide to discovering the perfect college m
 
 Meet the brilliant minds behind UniFind:
 
-#### [Apoorva Nayak](Link  GitHub profile)
+#### [Apoorva Nayak]     GitHub:(https://github.com/Apoorvagit17)
 
-#### [Harini.N](Link to  GitHub profile)
+#### [Harini.N]          GitHub:(Link to  GitHub profile)
 
-#### [Drupitha.C](Link  GitHub profile)
+#### [Drupitha.C]        GitHub:(Link  GitHub profile)
 
-#### [Keerthana.S](Link GitHub profile)
+#### [Keerthana.S]       GitHub:(Link GitHub profile)
 
 ## The Project
 

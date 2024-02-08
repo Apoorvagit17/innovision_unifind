@@ -26,6 +26,4 @@ UniFind is not just a college recommendation system; it's a journey of discovery
 - **Personalized Recommendations:** Tailored suggestions based on your preferences and academic goals.
 - **Interactive Interface:** A user-friendly interface that makes exploration a delightful experience.
 - **Data-Driven Insights:** Leverage the power of data science to provide meaningful insights.
-
-- You can experience the app here :
-- https://unifind-b5to9vhppctwmg93cmsfmz.streamlit.app/
+------------------------------------------------------------------------------------------------------------------------------------------------------------------

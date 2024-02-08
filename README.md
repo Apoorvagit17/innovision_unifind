@@ -12,9 +12,9 @@ Meet the brilliant minds behind UniFind:
 
 #### [Apoorva Nayak]     GitHub:(https://github.com/Apoorvagit17)
 
-#### [Harini.N]          GitHub:(Link to  GitHub profile)
+#### [Harini.N]          GitHub:(https://github.com/Harini-01)
 
-#### [Drupitha.C]        GitHub:(Link  GitHub profile)
+#### [Drupitha.C]        GitHub:(https://github.com/Drupitha-Chandrashekar)
 
 #### [Keerthana.S]       GitHub:(Link GitHub profile)
 

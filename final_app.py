@@ -7,6 +7,7 @@ from sklearn.preprocessing import MinMaxScaler
 file_path = r"C:\Users\APOORVA\OneDrive\Desktop\output_file123.csv"
 df = pd.read_csv(file_path)
 
+
 # Function to preprocess data and compute similarity matrix
 def preprocess_and_compute_similarity(df):
     # Select relevant columns for recommendation (e.g., 'Fees' and 'City')
